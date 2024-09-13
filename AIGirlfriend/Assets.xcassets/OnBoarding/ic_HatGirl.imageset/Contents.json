@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "cartoon-character-with-hat-jacket-that-says-she-s-wearing-hat_662214-176085.jpg.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
